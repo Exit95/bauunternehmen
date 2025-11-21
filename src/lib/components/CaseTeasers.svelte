@@ -23,7 +23,7 @@
         </div>
         <div class="case-content">
           <h3 class="case-title">
-            <a href="#case1">Einfamilienhaus Neubau</a>
+            Einfamilienhaus Neubau
           </h3>
           <p class="case-description">
             Energieeffizientes Einfamilienhaus mit 140 qm Wohnfläche. 
@@ -52,7 +52,7 @@
         </div>
         <div class="case-content">
           <h3 class="case-title">
-            <a href="#case2">Altbau Komplettsanierung</a>
+            Altbau Komplettsanierung
           </h3>
           <p class="case-description">
             Denkmalgeschütztes Gebäude aus 1920 komplett modernisiert. 
@@ -81,7 +81,7 @@
         </div>
         <div class="case-content">
           <h3 class="case-title">
-            <a href="#case3">Anbau mit Terrasse</a>
+            Anbau mit Terrasse
           </h3>
           <p class="case-description">
             Wohnraumerweiterung um 35 qm mit anschließender Terrassengestaltung. 
@@ -181,16 +181,7 @@
     font-size: var(--text-xl);
     font-weight: 600;
     margin-bottom: var(--space-12);
-  }
-  
-  .case-title a {
     color: var(--color-fg);
-    text-decoration: none;
-    transition: color var(--duration-enter) var(--ease);
-  }
-  
-  .case-title a:hover {
-    color: var(--color-primary);
   }
   
   .case-description {
