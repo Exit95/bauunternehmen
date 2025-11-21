@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.bauunternehmen-roger.de/sitemap.xml
