@@ -1,24 +1,9 @@
 {
-	"/": [
-		"src/routes/+layout.js",
-		"src/routes/+layout.js"
-	],
-	"/datenschutz": [
-		"src/routes/+layout.js"
-	],
-	"/faq": [
-		"src/routes/+layout.js"
-	],
-	"/impressum": [
-		"src/routes/+layout.js"
-	],
-	"/kontakt": [
-		"src/routes/+layout.js"
-	],
-	"/leistungen": [
-		"src/routes/+layout.js"
-	],
-	"/projekte": [
-		"src/routes/+layout.js"
-	]
+	"/": [],
+	"/datenschutz": [],
+	"/faq": [],
+	"/impressum": [],
+	"/kontakt": [],
+	"/leistungen": [],
+	"/projekte": []
 }
